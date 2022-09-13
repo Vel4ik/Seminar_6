@@ -1,0 +1,15 @@
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\bin\Debug\net6.0\Task_43.exe
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\bin\Debug\net6.0\Task_43.deps.json
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\bin\Debug\net6.0\Task_43.runtimeconfig.json
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\bin\Debug\net6.0\Task_43.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\bin\Debug\net6.0\Task_43.pdb
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.csproj.AssemblyReference.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfoInputs.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfo.cs
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.csproj.CoreCompileInputs.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\refint\Task_43.dll
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.pdb
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\Task_43.genruntimeconfig.cache
+C:\Users\АВТОМАГИЯ\Desktop\GeekBrains\3. Знакомство с языками программирования\Семинар 6\Домашняя работа 6\Task_43\obj\Debug\net6.0\ref\Task_43.dll
